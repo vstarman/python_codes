@@ -1,0 +1,5 @@
+#!/usr/bin/python3
+
+import re
+ret = re.match("[^aeiou]","ZXlklkmalsasd")
+print(ret.group())

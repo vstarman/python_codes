@@ -1,0 +1,28 @@
+SHIFT ENTER: 在行中间执行时，智能跳到下一行。
+
+CTRL B | CTRL 单击： 转到方法定义处
+
+SHIFT F6: 更改变量/方法名字
+
+CTRY Y: 删除当前行
+
+CTRL E: 最近访问的文件列表
+
+Ctrl + R   替换
+Ctrl + Shift + R   全局替换
+
+Ctrl + U跳转到父方法、父类
+
+
+
+
+
+
+
+
+
+
+
+
+
+

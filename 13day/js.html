@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+<link rel='stylesheet' href="./setting.css"/>
+<script>
+function changeImage()
+{
+    element=document.getElementById('myimage')
+    if( element.src.match("bulbon") )
+    {
+        element.src="http://www.w3school.com.cn/i/eg_bulboff.gif";
+    }
+    else
+    {
+        element.src="http://www.w3school.com.cn/i/eg_bulbon.gif";    
+    }
+}
+</script>
+<img id="myimage" onclick="changeImage()" src="http://www.w3school.com.cn/i/eg_bulboff.gif">
+<p class='font'>点击这灯泡开关</p>
+</body>
+</html>
