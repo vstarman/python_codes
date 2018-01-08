@@ -61,7 +61,9 @@ def fib(num):
 def generator_fib(num):
     n, a, b = 0, 0, 1
     while n < num:
-        yield a
+        yield b
+        a, b = b, a+b
+        n += 1
 
 
 """
@@ -70,10 +72,15 @@ def generator_fib(num):
                     Num is:  9969216677189303386214405760200
 类,fn(150)-->The time cost: 0.00012040138244628906s
             9969216677189303386214405760200
-生成器,
+生成器,-->0.0004029273986816406
+    9969216677189303386214405760200
 """
 if __name__ == '__main__':
     # 以函数形式调用时间装饰器
     # print(time_cost(simple_fib)(150))
 
-    print(time_cost(fib)(150))
+    # print(time_cost(fib)(150))
+
+    s_time = time()
+    print([i for i in generator_fib(150)][-1])
+    print(time()-s_time)
