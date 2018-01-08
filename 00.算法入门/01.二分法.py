@@ -1,8 +1,8 @@
-def binary_search(list1, item):
+def binary_search(array, item):
     """用二分法查询数值"""
     # low & high 用于跟踪要在列表中查找的列表部分
     low = 0
-    high = len(list1) - 1
+    high = len(array) - 1
 
     # 记录步数
     temp = 0
@@ -10,7 +10,7 @@ def binary_search(list1, item):
         temp += 1
         # 只要范围没有缩小的只包含一个元素,就检查中间元素
         mid = (low + high) // 2
-        guess = list1[mid]
+        guess = array[mid]
         # 找到了该元素
         if guess == item:
             print("搜索%d次查到元素:%d" % (temp, mid))
@@ -25,8 +25,8 @@ def binary_search(list1, item):
     return None
 
 
-list1 = [i for i in range(1000)]
-binary_search(list1, 886)
+lst = [i for i in range(1000)]
+binary_search(lst, 886)
 
 '''
 练习
