@@ -42,12 +42,12 @@ class Fees(object):
     # fee = property(get_fee, set_fee)
 
 if __name__ == '__main__':
-    f = Fees()
-    f.fee('809880')
-    print f.fee
-    # person = Person('徐', '伟')
-    # print person.first_name
-    # print person.last_name
-    # print person.full_name
+    # f = Fees()
+    # f.fee('809880')
+    # print(f.fee)
+    person = Person('徐', '伟')
+    print(person.first_name)
+    print(person.last_name)
+    print(person.full_name)
     # isinstance()
 
