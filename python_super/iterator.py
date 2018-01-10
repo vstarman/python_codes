@@ -1,5 +1,6 @@
-#!/usr/bin/python2.7
+# !/usr/bin/python2.7
 # -*- coding:utf-8 -*-
+from functools import reduce
 
 
 class MyList(object):
@@ -42,6 +43,6 @@ if __name__ == '__main__':
     # li_iter = iter(li)
     # map(lambda x: x, next(li_iter)
 
-    print map(lambda x: x*x, [11, 22, 33])
-    print type(map(str, {'a': 1, 'b': 2}))
-    print reduce(lambda x, y: x * 10 + y, [1, 3, 5, 7, 9])
+    print(map(lambda x: x*x, [11, 22, 33]))
+    print(type(map(str, {'a': 1, 'b': 2})))
+    print(reduce(lambda x, y: x * 10 + y, [1, 3, 5, 7, 9]))
