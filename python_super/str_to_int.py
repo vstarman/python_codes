@@ -15,5 +15,18 @@ def str2num(string):
     return reduce(lambda x, y: x*10+y, a)
 
 
+def prod(lst):
+    """列表求积"""
+    def prt():
+        print(reduce(lambda x, y: x * y, lst))
+    return prt()
+
+
+def name_format(lst):
+    """列表:人名自动格式化"""
+    map(lst)
+
+
 if __name__ == '__main__':
-    print str2num('21397981623')
+    # print str2num('21397981623')
+    prod([3, 4, 5, 6])
