@@ -1,8 +1,8 @@
 def insert_sort(li):
     """
-    最优时间复杂度：O(n2)
+    最优时间复杂度：O(n)
     最坏时间复杂度：O(n2)
-    稳定性：不稳定
+    稳定性：稳定
     :param li: A need sorted list
     :return: None
     """
