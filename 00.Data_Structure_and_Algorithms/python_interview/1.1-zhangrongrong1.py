@@ -1,6 +1,7 @@
 # 笔试题
 # 一、 python 部分
 # 1.1 请列举 python2 与 python3 的区别，请将下面的 python2 代码转换成python3。
+"""
 class Point:
     def __init__(self, x, y):
         self.x = x
@@ -17,10 +18,11 @@ sorted_points = sorted(
 
 sorted_points = sorted(
     points,
-    # lambda (x0, y0), (x1, y1): x0 - x1 if x0 != x1 else y0 - y1,
+    lambda (x0, y0), (x1, y1): x0 - x1 if x0 != x1 else y0 - y1,
     lambda point: (point.x, point.y))
-# #预期结果为(1, 5), (2, 5), (2, 7), (3, 8), (9, 2)
-# print ', '.join(map(str, sorted_points)
+# 预期结果为(1, 5), (2, 5), (2, 7), (3, 8), (9, 2)
+print ', '.join(map(str, sorted_points)
+"""
 
 
 # 1.2 请用 python 写一个正则表达式实现电话号码的提取功能，下面是需要满足条
