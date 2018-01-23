@@ -18,22 +18,34 @@ close()是为了释放资源。
 当with后的代码快执行完毕后,将调用前面返回对象的__exit__()方法.
 """
 
-# 4.现有字典d = {'a':24, 'g':53, '1': 12, 'k':33}
+# 4.对dirA按照value值得索引为1进行排序
+"""
+dirA = {'a': ['a', 2], 'b': ['b', 1], 'c': ['c', 3]}
+dirB = sorted(dirA.items(), key=lambda x: x[1][1])
 
+print(dirB)
+"""
 
 # 5.map(), filter(), zip(), lambda作用和用法
 """
-1.lambda lambda其实就是一条语句，lambda(x):body。x是lambda函数的参数，参数可以有任意多个(包括可选参数);
+1.lambda其实就是一条语句，lambda(x):body。x是lambda函数的参数，参数可以有任意多个(包括可选参数);
     body是函数体，只能是一个表达式，并且直接返回该表达式的值。
-2.filter filter(func, list)接受两个参数：一个函数func和一个列表list，返回一个列表。函数func只能有一个参数。
+2.filter(func, list)接受两个参数：一个函数func和一个列表list，返回一个列表。函数func只能有一个参数。
     filter的功能：列表中所有元素作为参数传递给函数，返回可以另func返回真的元素的列表
-3.zip  zip函数接受任意多个序列作为参数，将所有序列按相同的索引组合成一个元素是各个序列合并成的tuple的新序列，
+3.zip([iterable, ...])函数接受任意多个序列作为参数，将所有序列按相同的索引组合成一个元素是各个序列合并成的tuple的新序列，
     新的序列的长度以参数中最短的序列为准。另外(*)操作符与zip函数配合可以实现与zip相反的功能，即将合并的序列拆成多个tuple
-4.map为操作list,返回list,绑定的函数为修改list中每一个值的函数
+4.map(function, iterable, ...)操作list,py2返回列表,py3返回迭代器,绑定的函数为修改list中每一个值的函数
+    map(lambda x, y: x + y, [1, 3, 5, 7, 9], [2, 4, 6, 8, 10])
 """
 
-# 6.msg =
-# 匹配出ip和url
+# 6.匹配出ip和url
+"""
+import re
+msg = '192.168.0.1 25/Otc/2012:14:46:34 "GET /api/HTTP/1.1" 200 44 "http://abc.com/search"'
+regex = re.compile(r'(\d+.\d+.\d+.\d+?).+HTTP://(.+)"$', re.I)
+result = re.search(regex, msg)
+print(result.groups())
+"""
 
 # 7.多层列表展开
 """
@@ -58,8 +70,44 @@ def flatten(input_list):
 print(flatten(listA))
 """
 
-# 8.实现parse_json()函数,对json数据key值校验
+# 8.写一个装饰器,实现对parse_json(db_info)函数的key值校验,确保其中'User,Password,Database'为必须
+"""
+db_info = {'Type': 'oracle', 'User': 'oracle', 'Password': 'system',
+           'Database': 'docker', 'Addr': 'localhost', 'Port': '1512'}
+
+
+def key_verify(func):
+    def inner(*args, **kwargs):
+        # print(*args)
+        if 'User' and 'Password' and 'Database' in list(*args):
+            return func(*args, **kwargs)
+        return 'Verify False'
+    return inner
+
+
+@key_verify
+def parse_json(db_info):
+    return [key for key in db_info.keys()]
+
+print(parse_json(db_info))
+"""
 
 # 9.将一个正整数分解质因数.例如:输入90,打印90=2*3*3*5
+number = int(input('Enter a number: '))
+prime_list = list()
 
 
+def get_prime(num):
+    import math
+    is_prime = True
+    for i in range(1, int(math.sqrt(num + 1)) + 1):
+        if (num % i) == 0 and i != 1:
+            prime_list.append(i)
+            is_prime = False
+            get_prime(num / i)
+            break
+    if is_prime:
+        prime_list.append(num)
+
+get_prime(number)
+print(prime_list)

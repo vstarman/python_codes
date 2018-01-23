@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fe8a54d-cfb3-45e6-bff5-07338d4fc289" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/data_structure/07-二叉树实现.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/1.2-zhangrongrong2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/others/1.1_remove_duplicates_from_sorted_array.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/1.1_remove_duplicates_from_sorted_array.py" afterPath="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/1.1-zhangrongrong1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/1.2_timeit.py" afterPath="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/others/1.2_timeit.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/1.3-生成器_迭代器_装饰器_fib性能.py" afterPath="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/others/1.3-生成器_迭代器_装饰器_fib性能.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/python_interview/1.2-zhangrongrong2.py" afterPath="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/python_interview/1.2-zhangrongrong2.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,14 +13,17 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python_codes$iterator.coverage" NAME="iterator Coverage Results" MODIFIED="1513860798665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_super" />
-    <SUITE FILE_PATH="coverage/python_codes$04_.coverage" NAME="04-快速排序 Coverage Results" MODIFIED="1515833686479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00.Data_Structure_and_Algorithms" />
-    <SUITE FILE_PATH="coverage/python_codes$03_.coverage" NAME="03-插入排序 Coverage Results" MODIFIED="1515832524198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00.Data_Structure_and_Algorithms" />
-    <SUITE FILE_PATH="coverage/python_codes$detial_property.coverage" NAME="detial_property Coverage Results" MODIFIED="1515573653561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_super" />
+    <SUITE FILE_PATH="coverage/python_codes$1_2_zhangrongrong2__1_.coverage" NAME="1.2-zhangrongrong2 (1) Coverage Results" MODIFIED="1516711269243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/python_interview" />
     <SUITE FILE_PATH="coverage/python_codes$05_queue.coverage" NAME="05-queue Coverage Results" MODIFIED="1515656592716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00.Data_Structure_and_Algorithms" />
     <SUITE FILE_PATH="coverage/python_codes$04_stack.coverage" NAME="04-stack Coverage Results" MODIFIED="1515655886507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00.Data_Structure_and_Algorithms" />
     <SUITE FILE_PATH="coverage/python_codes$str_to_int.coverage" NAME="str_to_int Coverage Results" MODIFIED="1513862014172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_super" />
-    <SUITE FILE_PATH="coverage/python_codes$02_.coverage" NAME="02-双向链表实现 Coverage Results" MODIFIED="1515581428554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00.Data_Structure_and_Algorithms" />
     <SUITE FILE_PATH="coverage/00.codes$.coverage" NAME="快速排序 Coverage Results" MODIFIED="1510398131602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00.算法入门" />
+    <SUITE FILE_PATH="coverage/python_codes$04_.coverage" NAME="04-快速排序 Coverage Results" MODIFIED="1515833686479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00.Data_Structure_and_Algorithms" />
+    <SUITE FILE_PATH="coverage/python_codes$03_.coverage" NAME="03-插入排序 Coverage Results" MODIFIED="1515832524198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00.Data_Structure_and_Algorithms" />
+    <SUITE FILE_PATH="coverage/python_codes$detial_property.coverage" NAME="detial_property Coverage Results" MODIFIED="1515573653561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_super" />
+    <SUITE FILE_PATH="coverage/python_codes$1_2_zhangrongrong2.coverage" NAME="1.2-zhangrongrong2 Coverage Results" MODIFIED="1516697709852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题" />
+    <SUITE FILE_PATH="coverage/python_codes$02_.coverage" NAME="02-双向链表实现 Coverage Results" MODIFIED="1515581428554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00.Data_Structure_and_Algorithms" />
+    <SUITE FILE_PATH="coverage/python_codes$Python_Console.coverage" NAME="Python Console Coverage Results" MODIFIED="1516700252332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/python_codes$01_.coverage" NAME="01-冒泡排序 Coverage Results" MODIFIED="1515830839376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00.Data_Structure_and_Algorithms" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -37,19 +33,29 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="1.1-zhangrongrong1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/1.1-zhangrongrong1.py">
+        <entry file="file://$PROJECT_DIR$/00.Data_Structure_and_Algorithms/python_interview/1.1-zhangrongrong1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            <state relative-caret-position="379">
+              <caret line="85" column="0" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="1.2-zhangrongrong2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/1.2-zhangrongrong2.py">
+        <entry file="file://$PROJECT_DIR$/00.Data_Structure_and_Algorithms/python_interview/1.2-zhangrongrong2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="422">
+              <caret line="108" column="16" lean-forward="true" selection-start-line="108" selection-start-column="16" selection-end-line="108" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="re.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.virtualenvs/py3_django/lib/python3.5/re.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3819">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -59,8 +65,28 @@
       <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-281998159/builtins.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="512" column="4" lean-forward="false" selection-start-line="512" selection-start-column="4" selection-end-line="512" selection-end-column="4" />
+            <state relative-caret-position="8">
+              <caret line="5668" column="6" lean-forward="false" selection-start-line="5668" selection-start-column="6" selection-end-line="5668" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pydevd.py" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="1595" column="0" lean-forward="false" selection-start-line="1595" selection-start-column="0" selection-end-line="1595" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_pydev_execfile.py" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -94,8 +120,8 @@
       <find>stack</find>
       <find>queue</find>
       <find>my_li</find>
-      <find>,</find>
       <find>alist</find>
+      <find>,</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;&quot;&quot;$1&quot;&quot;&quot;</replace>
@@ -113,6 +139,7 @@
       <replace>deque</replace>
       <replace>,</replace>
       <replace>li</replace>
+      <replace>,</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -142,7 +169,9 @@
         <option value="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/05-希尔排序.py" />
         <option value="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/1.2_timeit.py" />
         <option value="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/1.4-zhangrongrong.py" />
+        <option value="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/1.1-zhangrongrong1.py" />
         <option value="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/1.2-zhangrongrong2.py" />
+        <option value="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/python_interview/1.2-zhangrongrong2.py" />
       </list>
     </option>
   </component>
@@ -155,7 +184,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="44" />
     <option name="y" value="18" />
-    <option name="width" value="731" />
+    <option name="width" value="745" />
     <option name="height" value="674" />
   </component>
   <component name="ProjectView">
@@ -215,42 +244,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python_codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python_codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="00.Data_Structure_and_Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="面试题" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python_codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python_codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="00.Data_Structure_and_Algorithms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm realized" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -262,8 +255,10 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/others" />
       <recent name="$PROJECT_DIR$/00.Data_Structure_and_Algorithms" />
+      <recent name="$PROJECT_DIR$/python_interview" />
+      <recent name="$PROJECT_DIR$/python_interview/面试题" />
+      <recent name="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/others" />
       <recent name="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/Algorithm realized" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -271,61 +266,7 @@
       <recent name="$PROJECT_DIR$/00.Data_Structure_and_Algorithms" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.04-快速排序">
-    <configuration default="false" name="04-stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/00.Data_Structure_and_Algorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="00.codes" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/04-stack.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="05-queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/00.Data_Structure_and_Algorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="00.codes" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/05-queue.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="01-冒泡排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/00.Data_Structure_and_Algorithms" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="00.codes" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/01-冒泡排序.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.1.2-zhangrongrong2 (1)">
     <configuration default="false" name="03-插入排序" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -358,6 +299,60 @@
       <module name="00.codes" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/04-快速排序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="1.2-zhangrongrong2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="00.codes" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/1.2-zhangrongrong2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="1.2-zhangrongrong2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/python_interview" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="00.codes" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00.Data_Structure_and_Algorithms/python_interview/1.2-zhangrongrong2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Python Console" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="00.codes" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/Python Console" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -577,19 +572,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.04-stack" />
-      <item index="1" class="java.lang.String" itemvalue="Python.05-queue" />
-      <item index="2" class="java.lang.String" itemvalue="Python.01-冒泡排序" />
-      <item index="3" class="java.lang.String" itemvalue="Python.03-插入排序" />
-      <item index="4" class="java.lang.String" itemvalue="Python.04-快速排序" />
+      <item index="0" class="java.lang.String" itemvalue="Python.03-插入排序" />
+      <item index="1" class="java.lang.String" itemvalue="Python.04-快速排序" />
+      <item index="2" class="java.lang.String" itemvalue="Python.1.2-zhangrongrong2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.1.2-zhangrongrong2 (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Python Console" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.04-快速排序" />
-        <item index="1" class="java.lang.String" itemvalue="Python.03-插入排序" />
-        <item index="2" class="java.lang.String" itemvalue="Python.01-冒泡排序" />
-        <item index="3" class="java.lang.String" itemvalue="Python.05-queue" />
-        <item index="4" class="java.lang.String" itemvalue="Python.04-stack" />
+        <item index="0" class="java.lang.String" itemvalue="Python.1.2-zhangrongrong2 (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Python Console" />
+        <item index="2" class="java.lang.String" itemvalue="Python.1.2-zhangrongrong2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.04-快速排序" />
+        <item index="4" class="java.lang.String" itemvalue="Python.03-插入排序" />
       </list>
     </recent_temporary>
   </component>
@@ -615,7 +610,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="44" y="18" width="731" height="674" extended-state="6" />
+    <frame x="44" y="18" width="745" height="674" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850942" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -624,19 +619,19 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.375" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46917808" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5171233" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.375" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3989726" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -669,23 +664,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="5" />
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="item" language="Python" />
-      </configuration>
-    </watches-manager>
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/00.Data_Structure_and_Algorithms/04-快速排序.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/00.Data_Structure_and_Algorithms/05-希尔排序.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -694,7 +677,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/others/1.1_remove_duplicates_from_sorted_array.py">
+    <entry file="file://$PROJECT_DIR$/00.Data_Structure_and_Algorithms/python_interview/others/1.1_remove_duplicates_from_sorted_array.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -702,7 +685,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/others/1.3-生成器_迭代器_装饰器_fib性能.py">
+    <entry file="file://$PROJECT_DIR$/00.Data_Structure_and_Algorithms/python_interview/others/1.3-生成器_迭代器_装饰器_fib性能.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -710,7 +693,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/others/1.2_timeit.py">
+    <entry file="file://$PROJECT_DIR$/00.Data_Structure_and_Algorithms/python_interview/others/1.2_timeit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
@@ -923,7 +906,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/others/1.1_remove_duplicates_from_sorted_array.py">
+    <entry file="file://$PROJECT_DIR$/00.Data_Structure_and_Algorithms/python_interview/others/1.1_remove_duplicates_from_sorted_array.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -931,7 +914,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/others/1.2_timeit.py">
+    <entry file="file://$PROJECT_DIR$/00.Data_Structure_and_Algorithms/python_interview/others/1.2_timeit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
@@ -939,34 +922,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/others/1.3-生成器_迭代器_装饰器_fib性能.py">
+    <entry file="file://$PROJECT_DIR$/00.Data_Structure_and_Algorithms/python_interview/others/1.3-生成器_迭代器_装饰器_fib性能.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.Data_Structure_and_Algorithms/data_structure/07-二叉树实现.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="36" column="16" lean-forward="false" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="1595" column="0" lean-forward="false" selection-start-line="1595" selection-start-column="0" selection-end-line="1595" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.Data_Structure_and_Algorithms/python_interview/1.1-zhangrongrong1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="85" column="0" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-281998159/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="512" column="4" lean-forward="false" selection-start-line="512" selection-start-column="4" selection-end-line="512" selection-end-column="4" />
+        <state relative-caret-position="8">
+          <caret line="5668" column="6" lean-forward="false" selection-start-line="5668" selection-start-column="6" selection-end-line="5668" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/1.1-zhangrongrong1.py">
+    <entry file="file://$USER_HOME$/.virtualenvs/py3_django/lib/python3.5/re.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00.Data_Structure_and_Algorithms/面试题/1.2-zhangrongrong2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-3819">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00.Data_Structure_and_Algorithms/python_interview/1.2-zhangrongrong2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="108" column="16" lean-forward="true" selection-start-line="108" selection-start-column="16" selection-end-line="108" selection-end-column="16" />
           <folding />
         </state>
       </provider>
